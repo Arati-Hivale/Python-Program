@@ -1,2 +1,2 @@
 # Python-Program
-basic of python 
+basic of python langauage.
